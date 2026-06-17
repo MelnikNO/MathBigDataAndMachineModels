@@ -131,20 +131,47 @@
 
 ## 8. Скриншоты выполнения
 
-### Скриншот 1. Загрузка model_feature_set_decisions (Шаг 1)
-(вставь скриншот с таблицей `model_feature_set_decisions` и `chosen_feature_sets`)
 
-### Скриншот 2. GridSearchCV результаты (Шаг 2)
-(вставь скриншот с `gridsearch_results_top` и `validation_summary`)
+<img width="1199" height="249" alt="image" src="https://github.com/user-attachments/assets/1cf27625-661d-4ffc-ad5c-e567dbc0a439" />
 
-### Скриншот 3. Финальный выбор winner (Шаг 3)
-(вставь скриншот с `final_choice_summary`)
+<img width="1547" height="404" alt="image" src="https://github.com/user-attachments/assets/887799fd-9c17-4851-8e4b-d0a4a000a213" />
 
-### Скриншот 4. Baseline vs Tuned на test (Шаг 4)
-(вставь скриншот с `baseline_vs_tuned_test_results`)
+<img width="1496" height="721" alt="image" src="https://github.com/user-attachments/assets/2746c78f-30d3-4ba6-ae27-2cc49bef205a" />
 
-### Скриншот 5. Экспорт артефактов (Шаг 5)
-(вставь скриншот с сообщением о сохранении файлов)
+<img width="1483" height="807" alt="image" src="https://github.com/user-attachments/assets/2452a363-a74f-42d7-b914-651d53821ac6" />
 
-### Скриншот 6. Файлы в папке outputs/
-(вставь скриншот с файлами: gridsearch_results_top.csv, baseline_vs_tuned_test_results.csv, а также файлами из первого ноутбука)
+<img width="1440" height="702" alt="image" src="https://github.com/user-attachments/assets/55470dac-0b1f-44e2-8210-f1030b54a563" />
+
+
+<img width="1531" height="365" alt="image" src="https://github.com/user-attachments/assets/acf6fc02-a0e5-4e7c-a0b9-3f73bf161b3d" />
+
+<img width="1527" height="300" alt="image" src="https://github.com/user-attachments/assets/899e43a1-1552-4d27-be2d-99dacb267cb2" />
+
+<img width="1081" height="296" alt="image" src="https://github.com/user-attachments/assets/3e2419cd-691c-4fdf-a428-7d4cd1bd52e2" />
+
+<img width="1272" height="625" alt="image" src="https://github.com/user-attachments/assets/d83fc837-2304-402c-9e19-7049964a233a" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
