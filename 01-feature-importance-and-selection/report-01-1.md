@@ -182,20 +182,54 @@
 
 ## 10. Скриншоты выполнения
 
-### Скриншот 1. Содержимое папки outputs/
-(вставь скриншот, показывающий файлы в папке `01-feature-importance-and-selection/outputs/`)
 
-### Скриншот 2. Проверки пройдены успешно
-(вставь скриншот с выводом `Проверки пройдены успешно`)
+<img width="815" height="366" alt="image" src="https://github.com/user-attachments/assets/960a8972-a05f-4004-b876-bdd599120a5f" />
 
-### Скриншот 3. График топ-8 признаков
-(вставь скриншот с графиком)
+<img width="1527" height="481" alt="image" src="https://github.com/user-attachments/assets/62ca587d-e09a-4f6d-89c5-b0576adac46e" />
 
-### Скриншот 4. Таблица feature_ranking
-(вставь скриншот с таблицей feature_ranking.head(20))
 
-### Скриншот 5. Результат Задания 1 — filter_stability_grid
-(вставь скриншот с таблицей)
+<img width="677" height="180" alt="image" src="https://github.com/user-attachments/assets/60dee2d9-0351-41b0-987b-b6943f8b0df3" />
 
-### Скриншот 6. Результат Задания 2 — filter_pairwise_similarity
-(вставь скриншот с таблицей)
+
+<img width="833" height="803" alt="image" src="https://github.com/user-attachments/assets/8b59bba2-56f9-40bf-81e9-410672485afa" />
+
+<img width="443" height="835" alt="image" src="https://github.com/user-attachments/assets/71a735a8-9579-4f83-8a12-a2510aab5351" />
+
+<img width="1511" height="132" alt="image" src="https://github.com/user-attachments/assets/41ea04dc-8a1e-4b96-bd6b-1e0d15fcfc34" />
+
+<img width="1475" height="80" alt="image" src="https://github.com/user-attachments/assets/65ffe1a3-a146-4195-9d99-4259c1d48ca0" />
+
+<img width="349" height="126" alt="image" src="https://github.com/user-attachments/assets/15880439-f0ad-496c-b21d-8fb91c444eb9" />
+
+<img width="1492" height="676" alt="image" src="https://github.com/user-attachments/assets/ac34beb3-bcc8-408b-8dd2-5bc536827d00" />
+
+<img width="1118" height="784" alt="image" src="https://github.com/user-attachments/assets/86869c71-b767-4d30-a0fa-f4fe6ea17020" />
+
+<img width="1129" height="172" alt="image" src="https://github.com/user-attachments/assets/beffc785-758b-4475-8b6c-a4becaa514f0" />
+
+<img width="729" height="512" alt="image" src="https://github.com/user-attachments/assets/b8f87b6e-27a7-4ed9-820c-c154103e310d" />
+
+<img width="942" height="822" alt="image" src="https://github.com/user-attachments/assets/5d438b31-c0c4-4005-9a3d-08ea5e1ca81b" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
