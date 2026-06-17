@@ -155,20 +155,43 @@
 
 ## 10. Скриншоты выполнения
 
-### Скриншот 1. Загрузка датасетов (Шаг 1)
-(вставь скриншот с выводом `sorted(datasets.keys())`)
+<img width="423" height="128" alt="image" src="https://github.com/user-attachments/assets/faa583a6-adf1-4494-90f3-4aac8c8d418f" />
 
-### Скриншот 2. Drift detection audit (Шаг 2)
-(вставь скриншот с таблицей `drift_detection_audit.head()`)
+<img width="1176" height="260" alt="image" src="https://github.com/user-attachments/assets/26dee1ce-1778-40c9-833b-84bf7cff3d3e" />
 
-### Скриншот 3. Monitoring quality audit (Шаг 2)
-(вставь скриншот с таблицей `monitoring_quality_audit.head()`)
+<img width="787" height="397" alt="image" src="https://github.com/user-attachments/assets/ecefaf88-cc32-4583-adb0-ebdafa4de3a6" />
 
-### Скриншот 4. Сводка drift_feature_share и delta_cost (Шаг 3)
-(вставь скриншот с таблицей `drift_summary.merge(cost_summary)`)
+<img width="1495" height="644" alt="image" src="https://github.com/user-attachments/assets/5b4ffb99-1775-477a-ad20-31f3c084a656" />
 
-### Скриншот 5. Экспорт артефактов (Шаг 4)
-(вставь скриншот с сообщением о сохранении файлов)
 
-### Скриншот 6. Файлы в папке outputs/
-(вставь скриншот с файлами: drift_detection_audit.csv, monitoring_quality_audit.csv)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
