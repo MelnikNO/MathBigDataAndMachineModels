@@ -123,22 +123,53 @@
 
 ## 8. Скриншоты выполнения
 
-### Скриншот 1. Выбор лучшей пары model + feature_set (selection_summary)
-(вставь скриншот с таблицей selection_summary)
+<img width="724" height="155" alt="image" src="https://github.com/user-attachments/assets/98ce8023-3a15-4adb-9206-cf8de03f25c6" />
 
-### Скриншот 2. Локальные объяснения ошибок (error_case_explanations)
-(вставь скриншот с таблицей error_case_explanations.head(20))
+<img width="1510" height="807" alt="image" src="https://github.com/user-attachments/assets/442ce951-aef7-4dea-af37-210d9649e576" />
 
-### Скриншот 3. Сегментный анализ ошибок (segment_error_summary)
-(вставь скриншот с таблицей segment_error_summary)
+<img width="1238" height="794" alt="image" src="https://github.com/user-attachments/assets/370cf155-4e4a-4e7b-8736-e924c5392b7c" />
 
-### Скриншот 4. Результат Задания 1 — сравнение false positive и false negative
-(вставь скриншот с выводом анализа)
+<img width="1136" height="813" alt="image" src="https://github.com/user-attachments/assets/5b15b4b6-ee7d-497b-80ee-5e15d3e19b46" />
 
-### Скриншот 5. Результат Задания 2 — проверка сегментов риска
-(вставь скриншот с таблицами топ-сегментов)
+<img width="1078" height="749" alt="image" src="https://github.com/user-attachments/assets/a418c477-28bd-4812-9db2-4a24e1b4009d" />
 
-### Скриншот 6. Результат Задания 3 — экспорт и decision memo
+
+<img width="1304" height="662" alt="image" src="https://github.com/user-attachments/assets/3e53cb97-eacd-4d7d-8a30-15dbe998ca7d" />
+
+<img width="1097" height="779" alt="image" src="https://github.com/user-attachments/assets/aa9dbd16-4ceb-4439-a062-23ff4e29849d" />
+
+
+<img width="1307" height="825" alt="image" src="https://github.com/user-attachments/assets/a6fd2c30-2203-4be4-9c69-3cba45d9f991" />
+
+
+<img width="1307" height="825" alt="image" src="https://github.com/user-attachments/assets/a7f28195-be89-4e2b-a1d5-2c924166616f" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 (вставь скриншот с сообщением о сохранении файла и decision memo)
 
 ### Скриншот 7. Файлы в папке outputs/
