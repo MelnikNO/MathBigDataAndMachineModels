@@ -125,17 +125,40 @@
 
 ## 10. Скриншоты выполнения
 
-### Скриншот 1. Загрузка контрактов из практики 1 (Шаг 1)
-(вставь скриншот с выводом размеров таблиц)
+<img width="1419" height="313" alt="image" src="https://github.com/user-attachments/assets/62466afe-58a9-4f59-a5bb-59f4d5d214de" />
 
-### Скриншот 2. Policy-решения (retraining_policy_decisions) (Шаг 2)
-(вставь скриншот с таблицей `retraining_policy_decisions.head()`)
+<img width="1247" height="305" alt="image" src="https://github.com/user-attachments/assets/0b09ff83-2923-47f1-a01c-211e05b18d02" />
 
-### Скриншот 3. Сравнение before_retrain и after_retrain (Шаг 3)
-(вставь скриншот с таблицей `post_retrain_comparison.head()`)
+<img width="1359" height="650" alt="image" src="https://github.com/user-attachments/assets/bfbd285e-3b24-45c0-acce-b152cf05a64d" />
 
-### Скриншот 4. Экспорт артефактов (Шаг 4)
-(вставь скриншот с сообщением о сохранении файлов)
 
-### Скриншот 5. Файлы в папке outputs/
-(вставь скриншот с файлами: retraining_policy_decisions.csv, post_retrain_comparison.csv, а также файлами из первого ноутбука)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
