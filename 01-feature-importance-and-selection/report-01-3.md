@@ -208,29 +208,50 @@
 
 ## 10. Скриншоты выполнения
 
-### Скриншот 1. Загрузка feature_sets из Notebook 2
-(вставь скриншот с выводом `feature sets loaded: True`)
+<img width="539" height="116" alt="image" src="https://github.com/user-attachments/assets/542bdb40-5d23-4b29-89b7-9bfbe9a19240" />
 
-### Скриншот 2. Таблица model_results.head(15)
-(вставь скриншот с таблицей из третьего ноутбука)
+<img width="699" height="119" alt="image" src="https://github.com/user-attachments/assets/5baa0fc9-5f22-49bb-8b8e-e9495175f777" />
 
-### Скриншот 3. Сводка summary.head(20)
-(вставь скриншот со сводкой результатов)
+<img width="808" height="664" alt="image" src="https://github.com/user-attachments/assets/626d12fe-0dea-4575-aef2-c5db3d329d24" />
 
-### Скриншот 4. Проверки пройдены успешно
-(вставь скриншот с выводом `Проверки пройдены успешно`)
+<img width="1536" height="836" alt="image" src="https://github.com/user-attachments/assets/50fd0e50-9da3-41f8-a65a-7ce808fdaef3" />
 
-### Скриншот 5. experiment_cache
-(вставь скриншот с выводом experiment_cache)
+<img width="525" height="159" alt="image" src="https://github.com/user-attachments/assets/870ed843-6677-4c60-9f43-33cdf362bc9a" />
 
-### Скриншот 6. Результат Задания 1 — threshold_tuning_results
-(вставь скриншот с таблицей)
+<img width="908" height="200" alt="image" src="https://github.com/user-attachments/assets/f53d664a-912f-44f8-bf2d-c9fd05f402a1" />
 
-### Скриншот 7. Результат Задания 2 — cv_stability_results
-(вставь скриншот с таблицей)
+<img width="882" height="793" alt="image" src="https://github.com/user-attachments/assets/637d7f1a-c112-4202-8019-8b17206061a5" />
 
-### Скриншот 8. Результат Задания 3 — error_by_segment
-(вставь скриншот с таблицей)
+<img width="887" height="290" alt="image" src="https://github.com/user-attachments/assets/49c552eb-3436-4787-b69d-4f5a1c7d96e1" />
 
-### Скриншот 9. Файлы в папке outputs/
-(вставь скриншот с файлами: model_results.csv, threshold_tuning_results.csv, cv_stability_results.csv, error_by_segment.csv)
+<img width="815" height="419" alt="image" src="https://github.com/user-attachments/assets/48038969-ed71-4f6a-a413-d8479d3a1e56" />
+
+
+<img width="1522" height="346" alt="image" src="https://github.com/user-attachments/assets/1e6cf89e-72d1-499a-be5d-eccf7200218f" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
