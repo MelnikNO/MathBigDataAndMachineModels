@@ -113,26 +113,49 @@
 
 ## 8. Скриншоты выполнения
 
-### Скриншот 1. Загрузка calibration_audit и выбор вариантов (Шаг 1)
-(вставь скриншот с таблицей `variant_summary`)
+<img width="757" height="179" alt="image" src="https://github.com/user-attachments/assets/a62b5bc6-1c49-4c9f-a486-f7d6fee308b7" />
 
-### Скриншот 2. Перебор порогов (threshold_policy_grid) (Шаг 2)
-(вставь скриншот с таблицей `threshold_policy_grid.head(10)`)
+<img width="549" height="155" alt="image" src="https://github.com/user-attachments/assets/9f374aa1-9080-49bc-86b8-186f48469e84" />
 
-### Скриншот 3. Графики threshold vs expected_cost/recall/f1 (Шаг 2)
-(вставь скриншот с тремя графиками)
+<img width="1254" height="474" alt="image" src="https://github.com/user-attachments/assets/777333af-6c91-470e-a374-fccbb72f3fdc" />
 
-### Скриншот 4. Финальный выбор правила решения (Шаг 3)
-(вставь скриншот с таблицей `final_policy_selection`)
+<img width="1784" height="384" alt="image" src="https://github.com/user-attachments/assets/0b1f1f3e-d8d6-4732-9fb7-5d1e1e05b47e" />
 
-### Скриншот 5. Финальная проверка на test (Шаг 4)
-(вставь скриншот с таблицей `policy_test_report`)
+<img width="1784" height="384" alt="image" src="https://github.com/user-attachments/assets/4c2b3b8a-a77b-497d-ab41-15c0be270c44" />
 
-### Скриншот 6. Сегментный аудит стоимости ошибок (Шаг 4)
-(вставь скриншот с таблицей `segment_policy_audit` и графиком)
+<img width="1510" height="198" alt="image" src="https://github.com/user-attachments/assets/449314ed-90bb-44a3-85be-0f7e86cc1aa5" />
 
-### Скриншот 7. Экспорт артефактов (Шаг 5)
-(вставь скриншот с сообщением о сохранении файлов)
+<img width="884" height="484" alt="image" src="https://github.com/user-attachments/assets/ecf710b5-7b85-4d8c-b0d1-0384ae6f31ee" />
 
-### Скриншот 8. Файлы в папке outputs/
-(вставь скриншот с файлами: threshold_policy_grid.csv, policy_test_report.csv, segment_policy_audit.csv)
+<img width="1489" height="258" alt="image" src="https://github.com/user-attachments/assets/ed9f15c3-784c-4668-8472-0767a0026436" />
+
+<img width="1183" height="484" alt="image" src="https://github.com/user-attachments/assets/c7016aea-0b49-4bb4-8240-0c7747036bf8" />
+
+<img width="1019" height="448" alt="image" src="https://github.com/user-attachments/assets/643ad933-26ca-4bf8-b3ff-b22e4e9f75d1" />
+
+<img width="1449" height="769" alt="image" src="https://github.com/user-attachments/assets/a43324d5-e2f5-4c33-a884-e56ec113c729" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
