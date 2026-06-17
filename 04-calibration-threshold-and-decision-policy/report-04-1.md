@@ -103,25 +103,48 @@
 
 ## 7. Скриншоты выполнения
 
-### Скриншот 1. Загрузка гипотез из ЛР03 (Шаг 1)
-(вставь скриншот с таблицей `hypotheses`)
+<img width="527" height="245" alt="image" src="https://github.com/user-attachments/assets/7bd6b063-3027-4920-bc52-a0ba70a58a7b" />
 
-### Скриншот 2. Калибровочные метрики (calibration_audit)
-(вставь скриншот с таблицей `calibration_audit`)
+<img width="289" height="196" alt="image" src="https://github.com/user-attachments/assets/8320f0f9-944f-4815-aa86-465ecd2c4b97" />
 
-### Скриншот 3. Reliability diagram (Шаг 3)
-(вставь скриншот с графиком reliability diagram)
+<img width="1174" height="320" alt="image" src="https://github.com/user-attachments/assets/3ec3490e-56fa-4834-ac7e-d990346fb642" />
 
-### Скриншот 4. Calibration gap (Шаг 3)
-(вставь скриншот с графиком mean absolute calibration gap)
 
-### Скриншот 5. Распределение вероятностей (Шаг 3)
-(вставь скриншот с гистограммой распределения вероятностей)
+<img width="864" height="459" alt="image" src="https://github.com/user-attachments/assets/0fd718dc-1c59-41e9-9836-bf2db8fd7a0b" />
 
-### Скриншот 6. Выбор calibrated_best (Шаг 4)
-(вставь скриншот с таблицей `calibrated_best_summary` и графиком сравнения)
+<img width="1384" height="484" alt="image" src="https://github.com/user-attachments/assets/b231f821-47ad-430d-a3bb-b293a856e3c8" />
 
-### Скриншот 7. Экспорт артефактов (Шаг 5)
+<img width="884" height="484" alt="image" src="https://github.com/user-attachments/assets/0c49364f-34a8-4fea-8227-cfeffc13a683" />
+
+<img width="573" height="303" alt="image" src="https://github.com/user-attachments/assets/3e15c933-15b5-4dfd-a651-59f368f3e059" />
+
+<img width="984" height="984" alt="image" src="https://github.com/user-attachments/assets/ae4c13c6-7138-475b-9b65-98a35b438290" />
+
+<img width="995" height="184" alt="image" src="https://github.com/user-attachments/assets/ee12c3ee-01db-478c-8975-51fdb763ec74" />
+
+<img width="984" height="484" alt="image" src="https://github.com/user-attachments/assets/a778a06e-16cc-4227-9335-bd956bfadbee" />
+
+<img width="1391" height="546" alt="image" src="https://github.com/user-attachments/assets/cecb7243-eb6f-4c49-93fc-c13610760f58" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 (вставь скриншот с сообщением о сохранении файла)
 
 ### Скриншот 8. Файлы в папке outputs/
