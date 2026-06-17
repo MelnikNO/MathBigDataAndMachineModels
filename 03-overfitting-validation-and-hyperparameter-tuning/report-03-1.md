@@ -127,20 +127,48 @@
 
 ## 8. Скриншоты выполнения
 
-### Скриншот 1. Candidate feature sets и split (Шаг 1)
-(вставь скриншот с таблицей `candidate_feature_sets`)
+<img width="914" height="195" alt="image" src="https://github.com/user-attachments/assets/a0b0fff2-bd12-40d3-a7a3-8824ab5c7fd4" />
 
-### Скриншот 2. Generalization audit (Шаг 2)
-(вставь скриншот с `generalization_audit.head(8)` и `audit_overview`)
 
-### Скриншот 3. Выбор feature set для каждой модели (Шаг 3)
-(вставь скриншот с `gap_summary` и `model_feature_set_decisions`)
+<img width="1443" height="851" alt="image" src="https://github.com/user-attachments/assets/02cd5f5b-8fe5-4da0-a85b-7733e91c527e" />
 
-### Скриншот 4. Validation curves (Шаг 4)
-(вставь скриншот с `validation_curve_results` и графиком)
+<img width="1477" height="214" alt="image" src="https://github.com/user-attachments/assets/0a172160-66e0-4de0-af60-0f6194dc0131" />
 
-### Скриншот 5. Экспорт артефактов (Шаг 5)
-(вставь скриншот с сообщением о сохранении файлов)
+<img width="1426" height="650" alt="image" src="https://github.com/user-attachments/assets/821a182f-b638-4f5c-89ea-48cd880121d6" />
 
-### Скриншот 6. Файлы в папке outputs/
-(вставь скриншот с файлами: generalization_audit.csv, model_feature_set_decisions.csv, validation_curve_results.csv)
+<img width="1201" height="199" alt="image" src="https://github.com/user-attachments/assets/5cb5d4bd-1d7d-4fd1-b049-5884799449b7" />
+
+<img width="1203" height="821" alt="image" src="https://github.com/user-attachments/assets/3950eddb-f0ef-43d7-8a6e-35674d9d4d71" />
+
+<img width="1205" height="714" alt="image" src="https://github.com/user-attachments/assets/f32407e8-5cd1-4913-b2b8-db77cefa0a9c" />
+
+<img width="1139" height="966" alt="image" src="https://github.com/user-attachments/assets/40d80134-98c1-4a7a-8d2e-ed8248003e17" />
+
+<img width="1492" height="680" alt="image" src="https://github.com/user-attachments/assets/b4dfa907-8413-4b4f-969e-b59d46538490" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
