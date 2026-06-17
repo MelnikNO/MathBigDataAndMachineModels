@@ -170,25 +170,57 @@
 
 ## 10. Скриншоты выполнения
 
-### Скриншот 1. Загрузка shortlist из Notebook 1
-(вставь скриншот с выводом `shortlist loaded: True`)
+<img width="466" height="70" alt="image" src="https://github.com/user-attachments/assets/4e52979a-38cd-4a52-9fa1-6db04e437b63" />
 
-### Скриншот 2. Таблица feature_ranking.head(20)
-(вставь скриншот с таблицей из второго ноутбука)
+<img width="346" height="88" alt="image" src="https://github.com/user-attachments/assets/e0e12cd4-247a-4680-9d6a-f33af056aa2e" />
 
-### Скриншот 3. feature_sets (set_A_wrapper, set_B_tree, set_C_hybrid)
-(вставь скриншот с выводом словаря feature_sets)
+<img width="537" height="125" alt="image" src="https://github.com/user-attachments/assets/cdef3333-5f34-4eab-b072-154d40d65ee9" />
 
-### Скриншот 4. Проверки пройдены успешно
-(вставь скриншот с выводом `Проверки пройдены успешно`)
 
-### Скриншот 5. Результат Задания 1 — method_agreement_long
-(вставь скриншот с таблицей)
+<img width="785" height="818" alt="image" src="https://github.com/user-attachments/assets/bd7f958e-d478-4f20-8ebf-ff677c722fd1" />
 
-### Скриншот 6. Результат Задания 2 — selection_stability
-(вставь скриншот с таблицей)
+<img width="570" height="834" alt="image" src="https://github.com/user-attachments/assets/d7fd3ce2-b814-44f3-b545-fe3b1da5c245" />
 
-### Скриншот 7. Результат Задания 3 — feature_sets с set_D_robust
+<img width="1495" height="89" alt="image" src="https://github.com/user-attachments/assets/0352e764-3d04-4981-aa00-e303ac2c445b" />
+
+<img width="542" height="186" alt="image" src="https://github.com/user-attachments/assets/ba1ea1e3-2959-4268-9bc2-b93162773ba4" />
+
+<img width="787" height="804" alt="image" src="https://github.com/user-attachments/assets/a60341a9-aad1-45bf-a998-b107a9448e12" />
+
+<img width="959" height="772" alt="image" src="https://github.com/user-attachments/assets/fd66b73a-dce7-4880-9b45-b1b63a44fc29" />
+
+<img width="964" height="779" alt="image" src="https://github.com/user-attachments/assets/d51de19d-1aed-46c3-a42b-f8122bae2b1a" />
+
+<img width="964" height="749" alt="image" src="https://github.com/user-attachments/assets/20150e6a-dd66-4c55-a43d-559bfbeca544" />
+
+<img width="1511" height="191" alt="image" src="https://github.com/user-attachments/assets/8e720d50-bf77-43c3-b019-f9e9afc6143c" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 (вставь скриншот с обновлённым словарем feature_sets)
 
 ### Скриншот 8. Файлы в папке outputs/
